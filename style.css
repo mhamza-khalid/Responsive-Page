@@ -250,6 +250,8 @@ a:hover{
     }
     .mobile__menu{
         margin-left: auto;
+        display: flex;
+        flex-direction: row;
     }
     .mobile__menu > li > a{
         margin-right: 1em;
